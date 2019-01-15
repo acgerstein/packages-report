@@ -1,9 +1,8 @@
-library(tidyverse)
+#'---
+#'output: github_document
+#'---
 
 .libPaths()
 
-ip <- installed.packages() #%>%
-#  as.tibble() %>%
-#  select("Package", "LibPath", "Version", "Priority", "Built") %>%
-  
+ip <- installed.packages() 
 nrow(ip)
