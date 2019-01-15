@@ -1,9 +1,25 @@
-#'---
-#' output: github_document
-#'---
+01\_write-installed-packages.R
+================
+acgerstein
+Tue Jan 15 17:18:23 2019
 
+``` r
 ## deja vu from earlier!
 library(tidyverse)
+```
+
+    ## ── Attaching packages ─────────────────────────────────────────────────────── tidyverse 1.2.1 ──
+
+    ## ✔ ggplot2 3.0.0     ✔ purrr   0.2.5
+    ## ✔ tibble  1.4.2     ✔ dplyr   0.7.8
+    ## ✔ tidyr   0.8.1     ✔ stringr 1.3.1
+    ## ✔ readr   1.3.1     ✔ forcats 0.3.0
+
+    ## ── Conflicts ────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+    ## ✖ dplyr::filter() masks stats::filter()
+    ## ✖ dplyr::lag()    masks stats::lag()
+
+``` r
 library(readr)
 
 ## create a data frame of your installed packages
@@ -31,3 +47,4 @@ ip <- installed.packages() %>%
 ## YES overwrite the file that is there now (or delete it first)
 ## that's a old result from me (Jenny)
 ## it an example of what yours should look like and where it should go
+```

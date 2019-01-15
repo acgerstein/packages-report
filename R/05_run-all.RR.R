@@ -1,4 +1,10 @@
+#'---
+#' output: github_document
+#'---
+
 #delete all intermediate files
+library(fs)
+library(here)
 
 if(!dir_exists(here("figs")))
   dir_create(here("figs"))
