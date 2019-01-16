@@ -72,6 +72,8 @@ bp
 
 *If you created some sort of controller script, describe that here.*
 
+I wonder if I can use eucatastrophe in a sentence. Nope.
+
 <details>
 
 <summary>Session info</summary>

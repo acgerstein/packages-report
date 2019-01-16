@@ -112,7 +112,7 @@ prettyunits,3.5.0
 processx,3.5.0
 progress,3.5.0
 promises,3.5.0
-ps,3.5.0
+ps,3.5.2
 purrr,3.5.0
 quadprog,3.5.0
 quantreg,3.5.0
