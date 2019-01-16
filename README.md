@@ -33,8 +33,6 @@ Here's how they break down in terms of which version of R they were built under,
 
 I wonder if I can use eucatastrophe in a sentence. Nope.
 
-I super love git
-
 <details>
 
 <summary>Session info</summary>
