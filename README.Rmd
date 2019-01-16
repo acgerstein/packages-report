@@ -16,10 +16,6 @@ library(tidyverse)
 
 ## Bonus activity prompt
 
-* Combine your work analyzing your R packages and what we've learned re: GitHub and R Markdown
-* This `README.Rmd` gives a scaffold for using the work you did earlier to make a little report.
-* Given our previous work, I'm using pre-computed results and including a pre-made figure, leaving the R code down in scripts below `R/`. But know that, in other contexts, you could inline all that code in chunks here. Depends on downstream usage and the project context.
-* Locally, do `README.Rmd` --> `README.md` with the "Knit" button or via `rmarkdown::render("README.Rmd")`. Commit both.
 * I presume you are hooked up to GitHub remote repo, covered in [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html). Summary:
   - Consider the convenience function `usethis::use_github()`. Or to do by hand:
   - Create a similarly-named repo on GitHub.
@@ -32,7 +28,7 @@ library(tidyverse)
 
 The goal of packages-report is to think about how many packages I have and what version they were installed on. Very boring since I have a new computer.
 
-```{r, include = FALSE}
+```{r, include = FALSE, echo = FALSE}
 ## load data/add-on-packages-freqtable.csv here in this chunk
 library(here)
 library(fs)

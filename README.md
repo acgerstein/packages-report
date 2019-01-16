@@ -6,10 +6,6 @@ packages-report
 Bonus activity prompt
 ---------------------
 
--   Combine your work analyzing your R packages and what we've learned re: GitHub and R Markdown
--   This `README.Rmd` gives a scaffold for using the work you did earlier to make a little report.
--   Given our previous work, I'm using pre-computed results and including a pre-made figure, leaving the R code down in scripts below `R/`. But know that, in other contexts, you could inline all that code in chunks here. Depends on downstream usage and the project context.
--   Locally, do `README.Rmd` --&gt; `README.md` with the "Knit" button or via `rmarkdown::render("README.Rmd")`. Commit both.
 -   I presume you are hooked up to GitHub remote repo, covered in [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html). Summary:
 -   Consider the convenience function `usethis::use_github()`. Or to do by hand:
 -   Create a similarly-named repo on GitHub.
@@ -27,13 +23,15 @@ I have 172 add-on packages installed.
 
 Here's how they break down in terms of which version of R they were built under, which is related to how recently they were updated on CRAN.
 
-![](shhh-secret-for-later-README_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 ### Flow of the analysis
 
 *If you have time, document the analysis works, using internal links.*
 
 *If you created some sort of controller script, describe that here.*
+
+I wonder if I can use eucatastrophe in a sentence. Nope.
 
 <details>
 
