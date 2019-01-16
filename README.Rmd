@@ -72,8 +72,7 @@ I wonder if I can use eucatastrophe in a sentence. Nope.
 
 I super  love git
 
-Testing testing
-
+Don't quite understand
 <details>
 
 <summary>Session info</summary>
