@@ -23,6 +23,7 @@ cmprsk,3.5.0
 colorspace,3.5.0
 covr,3.5.0
 cowplot,3.5.0
+cowsay,3.5.0
 crayon,3.5.0
 curl,3.5.0
 data.table,3.5.0
@@ -47,6 +48,7 @@ fontLiberation,3.5.0
 fontquiver,3.5.0
 forcats,3.5.0
 Formula,3.5.0
+fortunes,3.5.0
 fs,3.5.0
 gdtools,3.5.0
 ggplot2,3.5.0
@@ -126,6 +128,7 @@ rex,3.5.0
 rgeos,3.5.0
 rlang,3.5.0
 rmarkdown,3.5.0
+rmsfact,3.5.0
 RMySQL,3.5.0
 RPostgreSQL,3.5.0
 rprojroot,3.5.0

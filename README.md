@@ -7,5 +7,4 @@ Git from RStudio is so much easier than command line git!
 
 Git from the browser is a different world.
 
-Words to revive: 
-Buncombe. Def: Rubbish; nonsense; empty or misleading talk.
+I wonder if I can use eucatastrophe in a sentence. Nope.

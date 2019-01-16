@@ -29,6 +29,7 @@ colorspace,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.3-2,
 compiler,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,3.5.2,base,3.5.2
 covr,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,3.1.0,NA,3.5.0
 cowplot,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.9.3,NA,3.5.0
+cowsay,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.7.0,NA,3.5.0
 crayon,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.3.4,NA,3.5.0
 curl,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,3.2,NA,3.5.0
 data.table,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.11.4,NA,3.5.0
@@ -55,6 +56,7 @@ fontquiver,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.2.1,
 forcats,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.3.0,NA,3.5.0
 foreign,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.8-71,recommended,3.5.2
 Formula,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.2-3,NA,3.5.0
+fortunes,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.5-4,NA,3.5.0
 fs,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.2.6,NA,3.5.0
 gdtools,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.1.7,NA,3.5.0
 ggplot2,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,3.0.0,NA,3.5.0
@@ -146,6 +148,7 @@ rex,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.1.2,NA,3.5.
 rgeos,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.3-28,NA,3.5.0
 rlang,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.3.0.1,NA,3.5.0
 rmarkdown,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.10,NA,3.5.0
+rmsfact,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.0.3,NA,3.5.0
 RMySQL,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.10.15,NA,3.5.0
 rpart,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,4.1-13,recommended,3.5.2
 RPostgreSQL,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.6-2,NA,3.5.0
