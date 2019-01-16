@@ -31,7 +31,7 @@ Here's how they break down in terms of which version of R they were built under,
 
 *If you created some sort of controller script, describe that here.*
 
-I wonder if I can use eucatastrophe in a sentence. Nope.
+Maybe this session on git will have a eucatastrophe! Love the WIP.
 
 <details>
 
